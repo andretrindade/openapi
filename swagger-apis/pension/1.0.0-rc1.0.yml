@@ -1092,7 +1092,6 @@ components:
         - DOENCAS_LESOES_PREEXISTENTES
         - EPIDEMIAS_PANDEMIAS
         - SUICIDIO
-        - ATO_ILICITO_DOLOSO_PRATICADO_CONTROLADOR
         - OUTROS
       example: ATO_RECONHECIMENTO_PERIGOSO
     EnumAssistanceType:
