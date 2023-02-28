@@ -1819,7 +1819,7 @@ components:
           type: string
           maxLength: 77
           pattern: '[\w\W\s]*'
-          example: '12345678901'
+          example: '99999999999'
           description: |
             Chave cadastrada no DICT pertencente ao recebedor. Os tipos de chaves podem ser: telefone, e-mail, cpf/cnpj ou chave aleatória.
             No caso de telefone celular deve ser informado no padrão E.1641.
